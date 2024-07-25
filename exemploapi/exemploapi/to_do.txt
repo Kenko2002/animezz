@@ -1,0 +1,11 @@
+todo:
+	
+
+	corrigir bug, o sistema está tendo dificuldades em dizer se estou ou não logado.
+
+
+baixa prioridade:
+	area do admin pra inserir episodios,animes, filmes, etc.
+	area do usuario pra ele trocar foto de perfil e essas outras besteiras.
+	funcoes relacionadas a generos de animes (getallgeneros, get by genero franquia)
+	funcoes relacionadas a visualizacoes (somarviewsporfranquia,getallviewsporanime,getepisodioviews)

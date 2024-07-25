@@ -1,0 +1,222 @@
+<!doctype html>
+<html lang="pt-BR">
+
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css"
+          integrity="sha512-SnH5WK+bZxgPHs44uWIX+LLJAJ9/2PkPKZ5QiAj6Ta86w+fsb2TkcmfRyVX3pBnMFcV7oQPJkl9QevSCWr3W6A=="
+          crossorigin="anonymous" referrerpolicy="no-referrer" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css"
+          integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+    <title>streamZz</title>
+
+    <!-- jQuery -->
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+    <!-- Custom JavaScript -->
+    <script src="./index_logado.js"></script>
+    <script src="./pesquisa.js"></script>
+
+    <style>
+        .inline-block {
+            display: inline-block;
+            vertical-align: top;
+        }
+
+        .text-center {
+            text-align: center;
+        }
+
+        .w-80 {
+            height: 150px;
+            width: 175px;
+            margin-left: 30px;
+        }
+    </style>
+
+</head>
+
+<body>
+
+    <header>
+        <nav class="navbar navbar-expand-lg navbar-light bg-light">
+            <div class="container">
+                <a class="navbar-brand" href="index.html">
+                    <img src="images/logo_sem_fundo.png" style="width: 100px;" alt="logo">
+                </a>
+                <div class="form-inline ml-auto">
+                    <input id="search-input" class="form-control mr-sm-2" type="search" placeholder="Search" aria-label="Search">
+                    <button id="search-button" class="btn btn-primary my-2 my-sm-0" type=""><strong>Pesquisar</strong></button>
+                </div>
+            </div>
+        </nav>
+        <nav class="navbar navbar-expand-lg navbar-light bg-dark" style="height: 50px;">
+            <div class="container d-flex justify-content-between">
+                <div class="navbar-nav">
+                    <a class="nav-item nav-link text-light" id="inicio_button" href="index.html">Inicio</a>
+                    <a class="nav-item nav-link text-light" id="generos_button" href="./generos.html">Gêneros</a>
+                    <a class="nav-item nav-link text-light" id="franquias_button" href="./franquias.html">Franquias</a>
+                </div>
+                <div class="dropdown">
+                    <button class="btn btn-dark text-light" type="button" data-toggle="dropdown" aria-expanded="false">
+                        Olá, <a id="username">Jurubes!</a>
+                    </button>
+                    <div class="dropdown-menu">
+                        <a class="dropdown-item" href="#">Logout</a>
+                    </div>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+
+    <main class="pt-5">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 border rounded p-3" style="background-color: #eaece5;">
+                    <h6>Mais Populares</h6>
+                    <div class="d-flex flex-column align-items-center" style="max-height:65vh; overflow-y:auto" id="query_mais_populares">
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                        <a href="#" class="mb-2"><img src="images/capa.png" alt="Capa"></a>
+                    </div>
+                </div>
+                <div class="col-md-8 pl-5">
+                    <div class="row">
+                        <div class="col border rounded" style="background-color: #eaece5;">
+                            <h6>Animes em Lançamento</h6>
+                            <div class="row" style="overflow-x: auto;white-space: nowrap;">
+                                <!-- <div class="col">
+                                    <h6>Animes em Lançamento</h6>
+                                </div>
+                                <div class="w-100"></div> -->
+                                <div class="col" id="query_animes_em_lancamento">
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center w-80">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                    <a href="" class="mb-2">
+                                        <div class="inline-block text-center">
+                                            <img src="images/lancamento.png" alt="lancamento" class="p-2">
+                                            <p>Demon Slayer <br><small>Kimetsu no Yaiba</small></p>
+                                        </div>
+                                    </a>
+                                </div>
+                            </div>
+                        </div>
+                        <div class="w-100 pt-5"></div>
+                        <div class="col border rounded" style="background-color: #eaece5;">
+                            <div class="col">
+                                <h6 class="p-1">Histórico</h6>
+                            </div>
+                            <div class="w-100"></div>
+                            <div class="col" id="query_continue_assistindo" style="display: flex; flex-wrap: wrap; align-items: center; max-height: 45vh; overflow-y: auto ">
+
+                                <a class="mb-2" onclick="window.location.href='video.html'">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                                <a class="mb-2">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                                <a class="mb-2">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                                <a class="mb-2">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                                <a class="mb-2">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                                <a class="mb-2">
+                                    <div class="inline-block text-center">
+                                        <img src="images/episodio.png" alt="lancamento" class="w-80 py-2">
+                                        <p>Unnamed Memory<br><small>Episodio 8</small></p>
+                                    </div>
+                                </a>
+
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </main>
+
+
+    <footer id="sticky-footer" class="flex-shrink-0 mt-5 py-4 bg-dark text-white-50">
+        <div class="container text-center">
+            <span class="text-muted">2024 &#169; animeZz</span>
+        </div>
+    </footer>
+
+
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js"
+            integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js"
+            integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl"
+            crossorigin="anonymous"></script>
+
+</body>
+
+</html>
