@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("animezzapi")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5447354c5a9e90888405ffe0549324300ea53de9")]
 [assembly: System.Reflection.AssemblyProductAttribute("animezzapi")]
 [assembly: System.Reflection.AssemblyTitleAttribute("animezzapi")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

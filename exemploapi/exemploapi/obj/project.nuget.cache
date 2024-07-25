@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VPOFYhvLswdiCitJRTDKsMP2syGrMM5OeLtvauoRKIEI8PDCTYVYU4jcFyfqLxt+sppr7h85ZWyrrlk+kGoAOA==",
+  "dgSpecHash": "pnC6q0NHUbaODaOiAW7S4ch6ll3qsRksOKSATIu3LwV/Z1v0RIKsN+Dod7bNMSuOAnGz87gbfGbJBqQ9Sgoi3g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
+  "projectFilePath": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Renzo Fraga\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Renzo Fraga\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

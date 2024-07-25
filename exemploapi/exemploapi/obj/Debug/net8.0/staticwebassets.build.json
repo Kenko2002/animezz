@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "bQriE/LOj3ffPcVV2r9Wgic6MiIB9w3N5Of9cvWuVHQ=",
+  "Hash": "8qATv2imn4dEmCPPHM9Y6OWT+gFXUZKqOEDcPB2z8PI=",
   "Source": "animezzapi",
   "BasePath": "_content/animezzapi",
   "Mode": "Default",
@@ -10,17 +10,17 @@
     {
       "Name": "animezzapi\\wwwroot",
       "Source": "animezzapi",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "Pattern": "**"
     }
   ],
   "Assets": [
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\anime.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\anime.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/anime.html",
       "AssetKind": "All",
@@ -36,10 +36,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\anime.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/cadastro.html",
       "AssetKind": "All",
@@ -55,10 +55,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\cadastro.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/cadastro.js",
       "AssetKind": "All",
@@ -74,10 +74,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\cadastro.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\css\\style.css",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\css\\style.css",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/css/style.css",
       "AssetKind": "All",
@@ -93,10 +93,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\css\\style.css"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/franquia.html",
       "AssetKind": "All",
@@ -112,10 +112,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\franquia.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/franquia.js",
       "AssetKind": "All",
@@ -131,10 +131,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\franquia.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/franquias.html",
       "AssetKind": "All",
@@ -150,10 +150,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\franquias.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/franquias.js",
       "AssetKind": "All",
@@ -169,10 +169,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\franquias.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/generos.html",
       "AssetKind": "All",
@@ -188,10 +188,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\generos.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/generos.js",
       "AssetKind": "All",
@@ -207,10 +207,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\generos.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\capa.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\capa.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/capa.png",
       "AssetKind": "All",
@@ -226,10 +226,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\capa.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\episodio.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\episodio.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/episodio.png",
       "AssetKind": "All",
@@ -245,10 +245,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\episodio.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\image.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\image.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/image.png",
       "AssetKind": "All",
@@ -264,10 +264,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\image.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\lancamento.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\lancamento.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/lancamento.png",
       "AssetKind": "All",
@@ -283,10 +283,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\lancamento.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/logo.png",
       "AssetKind": "All",
@@ -302,10 +302,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\logo.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo_sem_fundo.png",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo_sem_fundo.png",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/images/logo_sem_fundo.png",
       "AssetKind": "All",
@@ -321,10 +321,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\images\\logo_sem_fundo.png"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/index.html",
       "AssetKind": "All",
@@ -340,10 +340,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\index.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/index.js",
       "AssetKind": "All",
@@ -359,10 +359,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\index.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/index_logado.html",
       "AssetKind": "All",
@@ -378,10 +378,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\index_logado.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/index_logado.js",
       "AssetKind": "All",
@@ -397,10 +397,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\index_logado.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/login.html",
       "AssetKind": "All",
@@ -416,10 +416,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\login.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/login.js",
       "AssetKind": "All",
@@ -435,10 +435,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\login.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/pesquisa.html",
       "AssetKind": "All",
@@ -454,10 +454,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\pesquisa.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/pesquisa.js",
       "AssetKind": "All",
@@ -473,10 +473,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\pesquisa.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa2.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa2.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/pesquisa2.js",
       "AssetKind": "All",
@@ -492,10 +492,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\pesquisa2.js"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.html",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.html",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/video.html",
       "AssetKind": "All",
@@ -511,10 +511,10 @@
       "OriginalItemSpec": "wwwroot\\frontend\\project_devweb\\video.html"
     },
     {
-      "Identity": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.js",
+      "Identity": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.js",
       "SourceId": "animezzapi",
       "SourceType": "Discovered",
-      "ContentRoot": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
+      "ContentRoot": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\",
       "BasePath": "_content/animezzapi",
       "RelativePath": "frontend/project_devweb/video.js",
       "AssetKind": "All",

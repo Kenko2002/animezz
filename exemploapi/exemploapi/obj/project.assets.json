@@ -4561,11 +4561,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
+      "projectUniqueName": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
       "projectName": "animezzapi",
-      "projectPath": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
+      "projectPath": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\animezzapi.csproj",
       "packagesPath": "C:\\Users\\Renzo Fraga\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\obj\\",
+      "outputPath": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Renzo Fraga\\AppData\\Roaming\\NuGet\\NuGet.Config",

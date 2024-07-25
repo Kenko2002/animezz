@@ -1,111 +1,111 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\anime.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\anime.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\anime.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\cadastro.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\cadastro.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\cadastro.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\css\\style.css",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\css\\style.css",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\css\\style.css"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\franquia.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquia.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\franquia.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\franquias.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\franquias.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\franquias.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\generos.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\generos.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\generos.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\capa.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\capa.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\capa.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\episodio.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\episodio.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\episodio.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\image.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\image.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\image.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\lancamento.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\lancamento.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\lancamento.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\logo.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo_sem_fundo.png",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\images\\logo_sem_fundo.png",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\images\\logo_sem_fundo.png"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\index.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\index.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\index_logado.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\index_logado.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\index_logado.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\login.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\login.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\login.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\pesquisa.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\pesquisa.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa2.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\pesquisa2.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\pesquisa2.js"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.html",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.html",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\video.html"
     },
     {
-      "Id": "C:\\Users\\Renzo Fraga\\Desktop\\projetos_c#\\exemplos_c--main\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.js",
+      "Id": "C:\\Users\\Renzo Fraga\\Documents\\GitHub\\animezz\\animezz\\exemploapi\\exemploapi\\wwwroot\\frontend\\project_devweb\\video.js",
       "PackagePath": "staticwebassets\\frontend\\project_devweb\\video.js"
     },
     {
