@@ -10,6 +10,9 @@ $(document).ready(function (e) {
         $("#login-button").css("display", "none");
         $("#cadastro-button").css("display", "none");
     }
+    if (username === null || username === "null") {
+        $("#inicio_button").attr("href", "./index.html");
+    }
 
 
     $("#query_pesquisa").empty();
@@ -22,7 +25,7 @@ $(document).ready(function (e) {
         success: function (data) {
             console.log("Pesquisando...");
             console.log(data);
-            console.log("Pesquisa concluída!");
+            console.log("Pesquisa concluÃ­da!");
 
             data.forEach(data => {
                 $("#query_pesquisa").append(`
