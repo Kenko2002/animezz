@@ -11,6 +11,9 @@ $(document).ready(function (e) {
         $("#login_button").css("display", "none");
         $("#cadastro_button").css("display", "none");
     }
+    if (username === null || username === "null") {
+        $("#inicio_button").attr("href", "./index.html");
+    }
 
 
     //Carregar generos
@@ -22,7 +25,7 @@ $(document).ready(function (e) {
         success: function (data) {
             console.log("Pesquisando Generos...");
             console.log(data);
-            console.log("Pesquisa concluída!");
+            console.log("Pesquisa concluÃ­da!");
             $("#query_pesquisa").empty();
             data.forEach(data => {
                 $("#query_pesquisa").append(`
